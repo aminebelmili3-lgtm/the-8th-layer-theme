@@ -15,8 +15,8 @@
         "editor.lineHighlightBorder": "#00000000",
 
         /* جعل خلفية الـ Sticky Scroll داكنة لعزلها عن الكود */
-        "editorStickyScroll.background": "#052215",
-        "editorStickyScrollHover.background": "#082d1e",
+        "editorStickyScroll.background": "#082d1e",
+        "editorStickyScrollHover.background": "#f2b86a80",
         
         "input.background": "#082d1e",
         "input.foreground": "#f2b86a",
