@@ -1,0 +1,26 @@
+{
+  "name": "the-8th-layer-theme",
+  "displayName": "The 8th Layer Theme",
+  "description": "Official VS Code theme for The 8th Layer channel",
+  "version": "0.0.1",
+  "publisher": "amineBelmili",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aminebelmili3-igtm/the-8th-layer-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The 8th Layer Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amine Belmili-color-theme.json"
+      }
+    ]
+  }
+}
